@@ -1,0 +1,9 @@
+{
+    "code-runner.runInTerminal": true,
+    "java.project.sourcePaths": [
+        "some program",
+        "array",
+        ""
+    ],
+    "java.dependency.packagePresentation": "hierarchical"
+}

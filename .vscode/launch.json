@@ -1,0 +1,434 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch innerclass",
+            "request": "launch",
+            "mainClass": "innerclass",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch priorityThread",
+            "request": "launch",
+            "mainClass": "priorityThread",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch multithreading",
+            "request": "launch",
+            "mainClass": "multithreading",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch thread",
+            "request": "launch",
+            "mainClass": "thread",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch tockenString",
+            "request": "launch",
+            "mainClass": "tockenString",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch WriteFile",
+            "request": "launch",
+            "mainClass": "WriteFile",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch StudentPackage",
+            "request": "launch",
+            "mainClass": "StudentPackage",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestGeneric",
+            "request": "launch",
+            "mainClass": "TestGeneric",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListSort",
+            "request": "launch",
+            "mainClass": "ArrayListSort",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArraylistElement",
+            "request": "launch",
+            "mainClass": "ArraylistElement",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ListToArray",
+            "request": "launch",
+            "mainClass": "ListToArray",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch AbstractCostumer",
+            "request": "launch",
+            "mainClass": "AbstractCostumer",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch AbstractSum",
+            "request": "launch",
+            "mainClass": "AbstractSum",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Avg",
+            "request": "launch",
+            "mainClass": "Avg",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch CopyBytes",
+            "request": "launch",
+            "mainClass": "CopyBytes",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day7Question1",
+            "request": "launch",
+            "mainClass": "Day7Question1",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Employeeday7",
+            "request": "launch",
+            "mainClass": "Employeeday7",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ImplementShape",
+            "request": "launch",
+            "mainClass": "ImplementShape",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch IndexArray",
+            "request": "launch",
+            "mainClass": "IndexArray",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Interfacemethod",
+            "request": "launch",
+            "mainClass": "Interfacemethod",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Iostream",
+            "request": "launch",
+            "mainClass": "Iostream",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch LengthOfFile",
+            "request": "launch",
+            "mainClass": "LengthOfFile",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch NegetivePositive",
+            "request": "launch",
+            "mainClass": "NegetivePositive",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Primeno",
+            "request": "launch",
+            "mainClass": "Primeno",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReadTest",
+            "request": "launch",
+            "mainClass": "ReadTest",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReplaceChar",
+            "request": "launch",
+            "mainClass": "ReplaceChar",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseString",
+            "request": "launch",
+            "mainClass": "ReverseString",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch RuntimePoy",
+            "request": "launch",
+            "mainClass": "RuntimePoy",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample",
+            "request": "launch",
+            "mainClass": "Sample",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Staticinstancevariables",
+            "request": "launch",
+            "mainClass": "Staticinstancevariables",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringPractice",
+            "request": "launch",
+            "mainClass": "StringPractice",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch SwitchYear",
+            "request": "launch",
+            "mainClass": "SwitchYear",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch SystemTime",
+            "request": "launch",
+            "mainClass": "SystemTime",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch UncheckedExcepton",
+            "request": "launch",
+            "mainClass": "UncheckedExcepton",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch UserdefinedException",
+            "request": "launch",
+            "mainClass": "UserdefinedException",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch addtwo_no",
+            "request": "launch",
+            "mainClass": "addtwo_no",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch arrayavg",
+            "request": "launch",
+            "mainClass": "arrayavg",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch arraylisttraverse",
+            "request": "launch",
+            "mainClass": "arraylisttraverse",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch arrayqueue",
+            "request": "launch",
+            "mainClass": "arrayqueue",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch compound",
+            "request": "launch",
+            "mainClass": "compound",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch convert",
+            "request": "launch",
+            "mainClass": "convert",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch copy_const",
+            "request": "launch",
+            "mainClass": "copy_const",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch count",
+            "request": "launch",
+            "mainClass": "count",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch datatype",
+            "request": "launch",
+            "mainClass": "datatype",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arraycontains",
+            "request": "launch",
+            "mainClass": "day4.Arraycontains",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch fibonacci",
+            "request": "launch",
+            "mainClass": "fibonacci",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch get_set",
+            "request": "launch",
+            "mainClass": "get_set",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch hashmap",
+            "request": "launch",
+            "mainClass": "hashmap",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch int_float",
+            "request": "launch",
+            "mainClass": "int_float",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch leap",
+            "request": "launch",
+            "mainClass": "leap",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch max",
+            "request": "launch",
+            "mainClass": "max",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch multi_array",
+            "request": "launch",
+            "mainClass": "multi_array",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch number",
+            "request": "launch",
+            "mainClass": "number",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch palindrome",
+            "request": "launch",
+            "mainClass": "palindrome",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch pelindrom",
+            "request": "launch",
+            "mainClass": "pelindrom",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch queue",
+            "request": "launch",
+            "mainClass": "queue",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch sumof_java",
+            "request": "launch",
+            "mainClass": "sumof_java",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch swap",
+            "request": "launch",
+            "mainClass": "swap",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ternery",
+            "request": "launch",
+            "mainClass": "ternery",
+            "projectName": "dac_java_42b6031f"
+        },
+        {
+            "type": "java",
+            "name": "Launch wrapper",
+            "request": "launch",
+            "mainClass": "wrapper",
+            "projectName": "dac_java_42b6031f"
+        }
+    ]
+}
